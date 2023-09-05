@@ -1,0 +1,5 @@
+- Divide a image 8 parts display them and rejoin them 
+- Up-sampling & Down sampling a 2D image 
+- Make a image binary image & negative Image 
+- Histogram of Binary & Gray level image 
+- Convert RGB image to gray scale and Binary image without using any function 
