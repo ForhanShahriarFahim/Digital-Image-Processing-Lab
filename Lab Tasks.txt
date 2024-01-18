@@ -3,3 +3,10 @@
 - Make a image binary image & negative Image 
 - Histogram of Binary & Gray level image 
 - Convert RGB image to gray scale and Binary image without using any function 
+
+
+- image sharpning (point detection, edge detection and line detection)
+
+- Histogram equalization and matching
+
+-DFT FFT implement and after reconstruction loss 
